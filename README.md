@@ -16,3 +16,4 @@ This guide provides a quick reference to different Kubernetes features you can i
 | **API Server**            | Add new API endpoints               | Aggregated APIs                |
 | **Cloud Integration**     | Hook into cloud APIs                | Cloud Controller Manager (CCM) |
 | **Storage/Devices**       | Support custom hardware             | CSI/Device Plugins             |
+|---------------------------|-------------------------------------|--------------------------------|
