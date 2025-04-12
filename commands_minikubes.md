@@ -1,7 +1,7 @@
 minikube start --force
 
 ## Metrics server
-##### CAdvisor
+##### to enable CAdvisor
 minikube addons enable metrics-server
 
 

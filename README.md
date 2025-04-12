@@ -1,5 +1,5 @@
 # kubernetes
-Project about Kubernetes
+Projects about Kubernetes
 
 # Kubernetes with Go: Feature & Tooling Guide
 ## Overview
